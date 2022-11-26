@@ -81,7 +81,6 @@ do
 done
 }
 
-
 add_data
 bubble_sort
 echo "duplikaty:"
