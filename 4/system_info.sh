@@ -85,6 +85,7 @@ convert () {
 }
 
 draw () {
+clear
 printf "UPLOAD ⇧ AND DOWLOAD ⇩ SPEED:\n"
 printf "s ago |"
 for ((i=$num-1; i>=0; i--))
